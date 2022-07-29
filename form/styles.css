@@ -1,0 +1,47 @@
+.big{
+    position: relative;
+    background: linear-gradient(165deg, purple, crimson);
+    min-height: 100vh;
+    margin: 20px 90px;
+    min-width: 1300px;
+    max-width: 700px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.medium{
+    position: relative;
+    background-color: skyblue;
+    height: 500px;
+    margin: 80px 30px;
+    min-width: 900px;
+    max-width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.small{
+    background-color: white;
+    position: relative;
+    padding: 40px;
+}
+
+.btn{
+    color: white;
+    background-color: skyblue;
+    width: 150px;
+    margin: auto;
+    text-align: center;
+}
+
+body{
+    color: skyblue;
+}
+
+p{
+    font-size: large;
+    font-weight: bold;
+}
+

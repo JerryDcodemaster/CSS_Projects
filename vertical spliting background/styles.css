@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    display: flex;
+    text-align: center;
+}
+
+.biggie{
+    background: red;
+    position: relative;
+    height: 100vh;
+    width: 50%;
+}
+
+
+.smaller{
+    background: yellow;
+    position: relative;
+    height: 100vh;
+    width: 50%;
+}
+
+p{
+    padding: 200px 10px;
+}

@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.underline{
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.container{
+    background: linear-gradient(75deg, yellow, red);
+    padding: 10px 30px;
+    line-height: 2;
+}
+
+footer{
+    background:linear-gradient(20deg, black, yellow);
+    color: #fff;
+    padding: 16px;
+    line-height: 2;
+}

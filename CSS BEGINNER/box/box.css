@@ -1,0 +1,46 @@
+.red {
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    position: absolute;
+    left: 0;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+body {
+    text-align: center;
+    margin: 0;
+}
+
+.blue {
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    top: 210px;
+    position: absolute;
+    left: 210px;
+}
+
+.yellow {
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    position: fixed;
+    left: 410px;
+    top: 410px;
+}
+
+span{
+    font-style: italic;
+    color: black;
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+p {
+    font-style: italic;
+    color: black;
+    font-size: 50px;
+    text-decoration: underline;
+}

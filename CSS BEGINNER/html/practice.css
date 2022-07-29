@@ -1,0 +1,30 @@
+div{
+    font-size: 30px;
+    text-align: center;
+    width: 220px;
+    height: 190px;
+    margin: 75px;
+}
+
+form{
+    background-color: plum;
+    text-align: center;
+    width: 410px;
+    height: 420px;
+    font-style: italic;
+    margin: 300px;
+    margin-top: 75px;
+    
+
+}
+
+span{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#done{
+    font-style: oblique;
+    font-weight: bold;
+    color: red;
+}

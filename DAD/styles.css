@@ -1,0 +1,21 @@
+body {
+    max-width: 100%;
+    margin: 0 10px;
+    background-color: sandybrown;
+}
+
+th,td {
+    padding: 0 10px;
+}
+
+table {
+    margin-top: 10px;
+}
+
+h4 {
+    text-decoration: underline;
+}
+
+p {
+    font-weight: 900;
+}

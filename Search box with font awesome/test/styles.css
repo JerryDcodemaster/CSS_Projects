@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.screen{
+    position: relative;
+    background: rgb(36, 255, 36);
+    background-size: cover;
+    height: 100vh;
+}
+
+.container{
+    background: rgb(32, 32, 243);
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    padding: 5px 10px;
+    margin: 30px 200px;
+    position: absolute;
+    height: 200px;
+    border-radius: 16px;
+    width: 150px;
+}
